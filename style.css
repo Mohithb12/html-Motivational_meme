@@ -1,0 +1,24 @@
+
+    *{
+      background-color: black;
+    }
+    .mm{
+      margin:25% ;
+    }
+    .island{
+      
+      border:5px solid white;
+      width:100%;
+    }
+    #head{
+      font-family: 'Libre Baskerville', serif;
+      color:aliceblue;
+      text-transform:uppercase;
+    }
+    #exp{
+      
+      font-family: 'Libre Baskerville', serif;
+      color: aliceblue;
+      text-align: center;
+    }
+    
